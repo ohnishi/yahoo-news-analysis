@@ -1,7 +1,7 @@
 # yahoo-news-analysis
-Yahoo!ニュースの記事タイトルから出現するキーワードを形態素解析で抽出する
+Yahoo!ニュースの記事タイトルから出現するキーワードを形態素解析で抽出するコマンド
 
-# Move current directory
+### Move current directory
 
 cd $GOPATH/src/github.com/ohnishi/yahoo-news-analysis
 
