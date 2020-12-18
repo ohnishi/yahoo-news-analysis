@@ -2,7 +2,7 @@
 The keywords appearing in the article titles of Yahoo! News Japan are extracted by morphological analysis and ranked.
 
 
-Set up mecab-ipadic-NEologd.
+### Set up mecab-ipadic-NEologd.
 https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md
 
 ### Move current directory
