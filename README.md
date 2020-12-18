@@ -1,8 +1,11 @@
 # yahoo-news-analysis
 The keywords appearing in the article titles of Yahoo! News Japan are extracted by morphological analysis and ranked.
 
-### Move current directory
 
+Set up mecab-ipadic-NEologd.
+https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md
+
+### Move current directory
 cd $GOPATH/src/github.com/ohnishi/yahoo-news-analysis
 
 ### Fetch yahoo news rss list
